@@ -1,2 +1,2 @@
-# http-WebServer
-A http webserver realized by C++.
+# WebServer
+A tiny WebServer
